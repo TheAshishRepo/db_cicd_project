@@ -1,0 +1,10 @@
+c:\MyDrive\Project\WFNB\POC\DatabaseCICD\CICDRepo\db_cicd_project\db-project-01\bin\Debug\db-project-01.dacpac
+c:\MyDrive\Project\WFNB\POC\DatabaseCICD\CICDRepo\db_cicd_project\db-project-01\bin\Debug\db-project-01.dll
+c:\MyDrive\Project\WFNB\POC\DatabaseCICD\CICDRepo\db_cicd_project\db-project-01\bin\Debug\db-project-01.pdb
+c:\MyDrive\Project\WFNB\POC\DatabaseCICD\CICDRepo\db_cicd_project\db-project-01\obj\Debug\db-project-01.sqlproj.AssemblyReference.cache
+c:\MyDrive\Project\WFNB\POC\DatabaseCICD\CICDRepo\db_cicd_project\db-project-01\obj\Debug\Model.xml
+c:\MyDrive\Project\WFNB\POC\DatabaseCICD\CICDRepo\db_cicd_project\db-project-01\obj\Debug\refactor.xml
+c:\MyDrive\Project\WFNB\POC\DatabaseCICD\CICDRepo\db_cicd_project\db-project-01\obj\Debug\postdeploy.sql
+c:\MyDrive\Project\WFNB\POC\DatabaseCICD\CICDRepo\db_cicd_project\db-project-01\obj\Debug\predeploy.sql
+c:\MyDrive\Project\WFNB\POC\DatabaseCICD\CICDRepo\db_cicd_project\db-project-01\obj\Debug\db-project-01.dll
+c:\MyDrive\Project\WFNB\POC\DatabaseCICD\CICDRepo\db_cicd_project\db-project-01\obj\Debug\db-project-01.pdb

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "462sd0cPhaxSwAQQ0ACmAHb6dzvVr46SLhABUU+abp/TvlhZy5sgd9Q47d6VtQIas11tnrfnU82oV4fJA9/Udw==",
+  "success": true,
+  "projectFilePath": "c:\\MyDrive\\Project\\WFNB\\POC\\DatabaseCICD\\CICDRepo\\db_cicd_project\\db-project-01\\db-project-01.sqlproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\asanand\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.0\\microsoft.netframework.referenceassemblies.1.0.0.nupkg.sha512",
+    "C:\\Users\\asanand\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net46\\1.0.0\\microsoft.netframework.referenceassemblies.net46.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,52 @@
+{
+  "format": 1,
+  "restore": {
+    "c:\\MyDrive\\Project\\WFNB\\POC\\DatabaseCICD\\CICDRepo\\db_cicd_project\\db-project-01\\db-project-01.sqlproj": {}
+  },
+  "projects": {
+    "c:\\MyDrive\\Project\\WFNB\\POC\\DatabaseCICD\\CICDRepo\\db_cicd_project\\db-project-01\\db-project-01.sqlproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\MyDrive\\Project\\WFNB\\POC\\DatabaseCICD\\CICDRepo\\db_cicd_project\\db-project-01\\db-project-01.sqlproj",
+        "projectName": "db-project-01",
+        "projectPath": "c:\\MyDrive\\Project\\WFNB\\POC\\DatabaseCICD\\CICDRepo\\db_cicd_project\\db-project-01\\db-project-01.sqlproj",
+        "packagesPath": "C:\\Users\\asanand\\.nuget\\packages\\",
+        "outputPath": "c:\\MyDrive\\Project\\WFNB\\POC\\DatabaseCICD\\CICDRepo\\db_cicd_project\\db-project-01\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\asanand\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net46"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net46": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "noWarn": [
+            "NU5128"
+          ]
+        }
+      },
+      "frameworks": {
+        "net46": {
+          "dependencies": {
+            "Microsoft.NETFramework.ReferenceAssemblies": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.0, )"
+            }
+          }
+        }
+      }
+    }
+  }
+}

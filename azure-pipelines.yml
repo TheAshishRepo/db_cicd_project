@@ -21,4 +21,4 @@ steps:
   inputs:
     CopyRoot: 'artifact'
     ArtifactName: 'build_artifact'
-    ArtifactType: 'FilePath'
+    ArtifactType: 'server'
